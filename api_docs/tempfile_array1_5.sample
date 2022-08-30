@@ -1,0 +1,18 @@
+[
+  {
+    "size": 8497,
+    "createdBy": 50,
+    "created": "2022-01-13T13:05:10.837+0200",
+    "name": "attached_file_test.txt",
+    "modified": "2022-01-13T13:18:25.353+0200",
+    "id": 1543
+  }, 
+  {
+    "size": 146169,
+    "createdBy": 50,
+    "created": "2022-01-13T13:18:25.353+0200",
+    "name": "attached_file.txt",
+    "modified": "2022-01-13T13:18:25.353+0200",
+    "id": 1545
+  }
+]

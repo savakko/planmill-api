@@ -1,0 +1,9 @@
+{  
+  "handlingFeeAccount": 3700,
+  "invoiceAppendix": 0,
+  "invoiceNumber": 120884,
+  "invoiceXSL": "planmill_fi_eur.xsl",
+  "paymentStatus": 5,
+  "salesExecutive": 2534285,
+  "sentToAccounting": 1
+}
